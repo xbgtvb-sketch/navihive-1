@@ -6,7 +6,7 @@
     "$schema": "node_modules/wrangler/config-schema.json",
     "name": "navihive",
     "main": "worker/index.ts",
-    "compatibility_date": "2025-04-05",
+    "compatibility_date": "2026-01-08",
     "assets": {
         "not_found_handling": "single-page-application"
     },
@@ -17,8 +17,8 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-1",
-            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b6"
+            "database_name": "navigation-db-11",
+            "database_id": "43ff28e1-42d6-4e53-9657-0702ae1353b7"
         }
     ],
     "vars": {
